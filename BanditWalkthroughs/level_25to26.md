@@ -1,13 +1,15 @@
 # OverTheWire Bandit: Level 25 → Level 26 Walkthrough
 
-## 🌟 Level Goal
+### Password to long in level 25: `iCi86ttT4KSNe1armKiwbQNmB3YJP3q4`
+
+##  Level Goal
 
 > Logging in to `bandit26` from `bandit25` should be fairly easy…
 > The shell for user `bandit26` is not `/bin/bash`, but something else. Find out what it is, how it works, and how to break out of it.
 
 ---
 
-## 🔍 Problem Summary
+## Problem Summary
 
 - When trying to SSH into `bandit26`, you get instantly logged out.
 - This is because `bandit26` doesn't use a normal shell (`/bin/bash`), but a custom script located at `/usr/bin/showtext`.
@@ -15,7 +17,7 @@
 
 ---
 
-## 🧠 Key Insight
+## Key Insight
 
 - The `more` command becomes interactive **only if** the content it is displaying **cannot fit entirely in the terminal screen**.
 - In **interactive mode**, `more` allows you to press `v` to open the content in `vim`.
@@ -23,7 +25,7 @@
 
 ---
 
-## 🪼 Step-by-Step Solution
+## Step-by-Step Solution
 
 ### 1. **List the contents** of the home directory as `bandit25`
 
@@ -76,7 +78,7 @@ If your terminal is small enough, you will now see:
 --More--
 ```
 
-This means you are in `more`’s interactive mode ✅
+This means you are in `more`’s interactive mode 
 
 ---
 
