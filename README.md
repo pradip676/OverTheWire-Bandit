@@ -4,7 +4,7 @@ Hey there fellow hacker-in-training 😄
 
 This is my student-style, slightly chaotic, but very real journey through all **34 levels** of the *OverTheWire: Bandit* wargame. From typing `ls` like a boss in level 0 to breaking out of uppercase jail in level 32, this repo has it ALL.
 
-![bandit-banner](Screenshots/bandit_banner.png)
+![bandit-banner]([Screenshots/bandit_banner.png](https://miro.medium.com/v2/resize:fit:1200/1*izApaw1uiEsZlFDhuUrvdw.png))
 
 ---
 
