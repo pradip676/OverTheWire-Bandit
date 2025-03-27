@@ -1,8 +1,8 @@
-# OverTheWire Bandit Walkthroughs 🎮💻
+# OverTheWire Bandit Walkthroughs 
 
 Hey there fellow hacker-in-training 😄
 
-This is my student-style, slightly chaotic, but very real journey through all **34 levels** of the *OverTheWire: Bandit* wargame. From typing `ls` like a boss in level 0 to breaking out of uppercase jail in level 32, this repo has it ALL.
+This is my slightly chaotic, but very real journey through all **34 levels** of the *OverTheWire: Bandit* wargame. From typing `ls` like a boss in level 0 to breaking out of uppercase jail in level 32, this repo has it ALL.
 
 ![bandit-banner](Screenshots/bandit_banner.png)
 
@@ -15,8 +15,6 @@ It’s a wargame for beginners that teaches you Linux commands, shell scripting,
 
 > No downloads. No installs. Just SSH your way into glory.
 
-![bandit-banner](Screenshots/bandit_banner.png)
-
 ---
 
 ## 🧠 What I Learned (a.k.a. how I didn’t rage quit)
@@ -28,8 +26,6 @@ From Level 0 to 33, here’s the kinda stuff I figured out (eventually):
 - That you can **literally escape** an UPPERCASE-ONLY shell with `$0` (yup)
 
 There were tears. There were victories. There was `chmod +x`.
-
-![levelup](Screenshots/levelup.png)
 
 ---
 
@@ -50,10 +46,10 @@ OVERWIRE-BANDIT
 ├── level_25to26.md
 ├── Screenshots
 ├── LICENSE
-└── README.md ← this beauty
+└── README.md 
 ```
 
-Each section contains my brain dump (aka guide) for the levels.
+Each section contains my brain dump for the levels.
 
 ---
 
@@ -67,7 +63,7 @@ Each section contains my brain dump (aka guide) for the levels.
 
 ## 💡 Why YOU Should Do Bandit
 If you:
-- Get confused by Linux permissions
+- Want to get confused by Linux permissions
 - Are curious about cybersecurity
 - Want to break things but legally
 
@@ -76,12 +72,12 @@ Then Bandit is literally made for you. It’s fun. It’s free. And it lowkey ma
 ---
 
 ## 🎉 Highlights
-- Accidentally brute-forced a 4-digit pin like a keyboard warrior 🧠
-- Wrote my first shell script that got wiped by cron before I could admire it 💀
+- Accidentally brute-forced a 4-digit pin like a keyboard warrior 
+- Wrote my first shell script that got wiped by cron before I could admire it 
 - Pushed to a Git repo from a server and got rewarded with a password (best trade ever)
 - Escaped the most annoying uppercase shell with `$0` — felt like a Linux ninja
 
-![success](Screenshots/final_success.png)
+![success](Screenshots/level33.png)
 
 ---
 
