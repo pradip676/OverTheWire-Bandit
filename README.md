@@ -98,17 +98,14 @@ You can find gems like:
 
 ---
 
-💬 Wanna Chat?
-
+## 💬 Wanna Chat?
 If you’re stuck or just want to geek out, open an issue or find me. I’m down to help.
 
 Stay curious, stay hacking! 💻
 
 Connect with me:
+- Email: [PradipSapkota@my.unt.edu](mailto:PradipSapkota@my.unt.edu)
+- LinkedIn: [Click here to connect on LinkedIn](https://www.linkedin.com/in/pradipsapkota01/)
 
-📧 Email: PradipSapkota@my.unt.edu
-
-🔗 LinkedIn: linkedin.com/in/pradipsapkota01
-
-— Pradip Sapkota (still recovering from Level 25)
+— *Pradip Sapkota (still recovering from Level 25)*
 
