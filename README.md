@@ -8,7 +8,7 @@ This is my slightly chaotic, but very real journey through all **34 levels** of 
 
 ---
 
-## 🧨 What even is Bandit?
+## What even is Bandit?
 Bandit is like Linux boot camp — except instead of drill sergeants yelling, it’s a server silently mocking you when `cat` doesn’t work. 
 
 It’s a wargame for beginners that teaches you Linux commands, shell scripting, file permissions, networking basics, and how to keep your cool when `Permission denied` makes you question life choices. 
@@ -17,7 +17,7 @@ It’s a wargame for beginners that teaches you Linux commands, shell scripting,
 
 ---
 
-## 🧠 What I Learned (a.k.a. how I didn’t rage quit)
+## What I Learned (a.k.a. how I didn’t rage quit)
 From Level 0 to 33, here’s the kinda stuff I figured out (eventually):
 - How to find secret passwords hidden in the dumbest places
 - What crontabs are and how they can be used for evil (or Bandit levels)
@@ -29,7 +29,7 @@ There were tears. There were victories. There was `chmod +x`.
 
 ---
 
-## 📁 File Structure
+## File Structure
 ```
 OVERWIRE-BANDIT
 ├── BanditWalkthroughs
@@ -45,7 +45,6 @@ OVERWIRE-BANDIT
 ├── level_22_to_25.md
 ├── level_25to26.md
 ├── Screenshots
-├── LICENSE
 └── README.md 
 ```
 
@@ -53,7 +52,7 @@ Each section contains my brain dump for the levels.
 
 ---
 
-## 🧰 Tools I now wield with confidence:
+## Tools I now wield with confidence:
 - Bash, sh, and weirdly `vi`
 - `scp` and `ssh` like I’m in a hacker movie
 - Git (tags, branches, logs — all the good stuff)
@@ -61,7 +60,7 @@ Each section contains my brain dump for the levels.
 
 ---
 
-## 💡 Why YOU Should Do Bandit
+## Why YOU Should Do Bandit
 If you:
 - Want to get confused by Linux permissions
 - Are curious about cybersecurity
@@ -71,7 +70,7 @@ Then Bandit is literally made for you. It’s fun. It’s free. And it lowkey ma
 
 ---
 
-## 🎉 Highlights
+## Highlights
 - Accidentally brute-forced a 4-digit pin like a keyboard warrior 
 - Wrote my first shell script that got wiped by cron before I could admire it 
 - Pushed to a Git repo from a server and got rewarded with a password (best trade ever)
@@ -88,7 +87,7 @@ If future levels come out, best believe I’m diving back in.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 I dropped a few terminal action shots in `Screenshots/` for the vibes.
 
 You can find gems like:
