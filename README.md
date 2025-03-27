@@ -80,7 +80,7 @@ Then Bandit is literally made for you. It’s fun. It’s free. And it lowkey ma
 
 ---
 
-## 🏁 I DID IT — All 34 Levels. Zero skips. Infinite Googling.
+## I DID IT — All 34 Levels. Zero skips. Infinite Googling.
 Seriously. Start to finish. Level 0 to Level 33. Solved, documented, and screen-captured.
 
 If future levels come out, best believe I’m diving back in.
@@ -91,7 +91,7 @@ If future levels come out, best believe I’m diving back in.
 I dropped a few terminal action shots in `Screenshots/` for the vibes.
 
 You can find gems like:
-- My brute-force Python script going brrrrr 🔁
+- My brute-force Python script going brrrrr 
 - Terminal screenshots from restricted shells
 - Final messages and Git tags revealing passwords
 
